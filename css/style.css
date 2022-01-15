@@ -24,9 +24,12 @@ p{
 
 }
 h1{
-    font-size: 5.62rem;
+    font-size: 3rem;
     margin: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#title{
+    font-size: 5.62rem;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
@@ -44,6 +47,7 @@ h3{
 
 
 .top-container{
+
     position: absolute;
     padding-top: 100px;
     left : 0;
